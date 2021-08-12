@@ -1,4 +1,4 @@
-### Hi there, I'm Rully - aka [irvslyy23][website] 👋
+### Hi there, Smiley's Here! - aka [irvslyy23][website] 👋
 
 ## I'm a Developer, Hunter, and Skater!
 
