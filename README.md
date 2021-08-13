@@ -21,7 +21,7 @@
 [<img align="left" alt="Laravel" width="90px" src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-[<img align="left" alt="Burp" width="80px" src="https://tech-collective.org/wp-content/uploads/2019/09/burpsuite-twittercard.png" />][webdevplaylist]
+[<img align="left" alt="Burp" width="30px" src="https://www.pinclipart.com/picdir/big/252-2520899_burp-suite-icon-clipart.png" />][webdevplaylist]
 
 <br />
 <br />
