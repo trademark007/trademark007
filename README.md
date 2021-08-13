@@ -7,18 +7,6 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects, Top Hacker on HackerOne & BugCrowd.
 - ⚡ Fun fact: I love to skate and play guitar. noob.
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="irvslyy23 Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="blackhatintelligence.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="irvslyy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="irvslyy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="irvslyy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Hunt On:
 
 [<img align="left" alt="bugcrowd" width="50px" src="https://www.blocksocial.com/wp-content/uploads/2019/07/bugcrowd-logo.jpg" />][bugcrowd]
