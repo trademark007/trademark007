@@ -10,7 +10,7 @@
 ### Hunt On:
 
 [<img align="left" alt="bugcrowd" width="30px" src="https://www.pngkit.com/png/full/22-227480_bugcrowd-hexagon-b-rgb-web-transparent-png-bugcrowd.png" />][bugcrowd]
-[<img align="left" alt="Visual Studio Code" width="50px" src="https://aseantechsec.com/wp-content/uploads/2019/03/hackerone-logo835x396.png" />][hackerone]
+[<img align="left" alt="Visual Studio Code" width="90px" src="https://www.hackerone.com/sites/default/files/2017-06/hackerone_logo_white.png" />][hackerone]
 
 <br />
 
