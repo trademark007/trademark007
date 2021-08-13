@@ -1,4 +1,4 @@
-### Hi there, Smiley's Here! - aka [irvslyy23][website] 👋
+### Hi there, Trademark's Here! 👋
 
 ## I'm a Developer, Hunter, and Skater!
 
