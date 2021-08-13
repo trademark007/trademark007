@@ -18,7 +18,11 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />][webdevplaylist]
-[<img align="left" alt="Laravel" width="80px" src="https://tech-collective.org/wp-content/uploads/2019/09/burpsuite-twittercard.png" />][webdevplaylist]
+[<img align="left" alt="JS" width="26px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" />][webdevplaylist]
+[<img align="left" alt="Laravel" width="28px" src="https://cdn.freebiesupply.com/logos/large/2x/laravel-logo-png-transparent.png" />][webdevplaylist]
+[<img align="left" alt="Burp" width="80px" src="https://tech-collective.org/wp-content/uploads/2019/09/burpsuite-twittercard.png" />][webdevplaylist]
+
+
 
 <br />
 <br />
