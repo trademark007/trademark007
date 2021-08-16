@@ -1,6 +1,6 @@
 ### Hi there, Trademark's Here! 👋
 
-## I'm a Yours tools maker, Hunter, and Skater!
+## I'm Yours tools maker, Hunter, and Skater!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
