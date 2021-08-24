@@ -1,6 +1,6 @@
-### Hi there, Trademark's Here! 👋
+## Hi there, Trademark's Here! 👋
 
-## I'm Yours tools maker, Hunter, and Skater!
+### I'm Yours tools maker, Hunter, and Skater!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -27,16 +27,13 @@
 <br />
 <br />
 
-### 📕 Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Responds from CEO BRI Life](https://writes.blackhatintelligence.net/2021/07/28/responds-from-bri-life-ceo/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://writes.blackhatintelligence.net)
-
----
-
 
 [website]: https://blackhatintelligence.com
 [twitter]: https://twitter.com/403onyou
